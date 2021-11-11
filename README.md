@@ -1,16 +1,16 @@
-### Hi there 👋
+#### mkc0615/README.md
 
-<!--
-**mkc0615/mkc0615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Hi, World.
+mkc0615 is a web developer mainly based on Spring.
+He is on his way to become a cross-platform developer.
 
-Here are some ideas to get you started:
+### Current Occupation
+- Development team for an IT company, focusing on info and financial support for online resellers.
+- Other personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skill Sets
+📚 Languages ::
+<img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo="/> <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Python-brightgreen?style=for-the-badge"/>  <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge"/>
+
+🔨 Tools ::
+<img src="https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/-MySql-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Django-yellowgreen?style=for-the-badge"/>  <img src="https://img.shields.io/badge/-Git-red?style=for-the-badge" />
