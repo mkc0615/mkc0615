@@ -5,7 +5,7 @@ mkc0615 is a web developer mainly based on Spring.
 He is on his way to become a cross-platform developer.
 
 #### Current Occupation
-- Development team for an IT company, focusing on info and financial support for online resellers.
+- Development team for an IT company, focusing on informational and financial support for online resellers.
 - Other personal projects
 
 #### Skill Sets
