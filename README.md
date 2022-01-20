@@ -14,7 +14,7 @@ He is on his way to become a cross-platform developer.
 <img src="https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo="/> <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Python-brightgreen?style=for-the-badge"/>  <img src="https://img.shields.io/badge/-SQL-blue?style=for-the-badge"/>
 
 🔨 Tools :: <br>
-<img src="https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/-MySql-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Django-yellowgreen?style=for-the-badge"/>  <img src="https://img.shields.io/badge/-Git-red?style=for-the-badge" />  <img src="https://img.shields.io/badge/-Selenium-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/-MySql-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Git-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Django-yellowgreen?style=for-the-badge"/>
 
 # Exposed to :
-<img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/-react native-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/-kotlin-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/-react native-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/-kotlin-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Selenium-green?style=for-the-badge" /> 
